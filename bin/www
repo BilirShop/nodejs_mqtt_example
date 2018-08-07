@@ -21,8 +21,8 @@ const options = {
     protocolVersion: 4,
     clean: true,
     reconnectPeriod: 1000,
-    username: '2828079b',
-    password: '1a97590bd0684f44',
+    username: '2828079ba',
+    password: '1a97590bd0684f44a',
     rejectUnauthorized: false
 };
 const mqtt_client = mqtt.connect(mqtt_host, options);
